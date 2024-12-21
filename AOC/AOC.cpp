@@ -1,7 +1,7 @@
 
-void TestChallenge4b();
+void TestChallenge11b();
 
 int main()
 {
-    TestChallenge4b();
+    TestChallenge11b();
 }

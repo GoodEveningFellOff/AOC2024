@@ -18,28 +18,10 @@
     <ClCompile Include="AOC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C1a.cpp">
+    <ClCompile Include="C11a.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C1b.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="C2a.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="C3a.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="C2b.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="C3b.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="C4a.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="C4b.cpp">
+    <ClCompile Include="C11b.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -56,5 +38,19 @@
     <Text Include="Resources\C3b_1.txt" />
     <Text Include="Resources\C4a_1.txt" />
     <Text Include="Resources\C4a_2.txt" />
+    <Text Include="Resources\C5a_1.txt" />
+    <Text Include="Resources\C5a_2.txt" />
+    <Text Include="Resources\C6a_1.txt" />
+    <Text Include="Resources\C6a_2.txt" />
+    <Text Include="Resources\C7a_1.txt" />
+    <Text Include="Resources\C7a_2.txt" />
+    <Text Include="Resources\C8a_1.txt" />
+    <Text Include="Resources\C8a_2.txt" />
+    <Text Include="Resources\C9a_1.txt" />
+    <Text Include="Resources\C9a_2.txt" />
+    <Text Include="Resources\C10a_1.txt" />
+    <Text Include="Resources\C10a_2.txt" />
+    <Text Include="Resources\C11a_1.txt" />
+    <Text Include="Resources\C11a_2.txt" />
   </ItemGroup>
 </Project>

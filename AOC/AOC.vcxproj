@@ -129,19 +129,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AOC.cpp" />
-    <ClCompile Include="C1a.cpp" />
-    <ClCompile Include="C1b.cpp" />
-    <ClCompile Include="C2a.cpp" />
-    <ClCompile Include="C2b.cpp" />
-    <ClCompile Include="C3a.cpp" />
-    <ClCompile Include="C3b.cpp" />
-    <ClCompile Include="C4a.cpp" />
-    <ClCompile Include="C4b.cpp" />
+    <ClCompile Include="C11a.cpp" />
+    <ClCompile Include="C11b.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="Resources\C10a_1.txt" />
+    <Text Include="Resources\C10a_2.txt" />
+    <Text Include="Resources\C11a_1.txt" />
+    <Text Include="Resources\C11a_2.txt" />
     <Text Include="Resources\C2a_1.txt" />
     <Text Include="Resources\C2a_2.txt" />
     <Text Include="Resources\C3a_1.txt" />
@@ -149,6 +147,16 @@
     <Text Include="Resources\C3b_1.txt" />
     <Text Include="Resources\C4a_1.txt" />
     <Text Include="Resources\C4a_2.txt" />
+    <Text Include="Resources\C5a_1.txt" />
+    <Text Include="Resources\C5a_2.txt" />
+    <Text Include="Resources\C6a_1.txt" />
+    <Text Include="Resources\C6a_2.txt" />
+    <Text Include="Resources\C7a_1.txt" />
+    <Text Include="Resources\C7a_2.txt" />
+    <Text Include="Resources\C8a_1.txt" />
+    <Text Include="Resources\C8a_2.txt" />
+    <Text Include="Resources\C9a_1.txt" />
+    <Text Include="Resources\C9a_2.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -16,6 +16,9 @@
 #include <filesystem>
 #include <fstream>
 #include <variant>
+#include <bitset>
+#include <thread>
+#include <stack>
 
 inline std::string LoadFileContents(const std::string_view& svPath)
 {
