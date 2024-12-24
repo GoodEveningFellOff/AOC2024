@@ -19,6 +19,7 @@
 #include <bitset>
 #include <thread>
 #include <stack>
+#include <queue>
 
 inline std::string LoadFileContents(const std::string_view& svPath)
 {

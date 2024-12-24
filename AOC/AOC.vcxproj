@@ -119,6 +119,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -129,8 +130,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AOC.cpp" />
-    <ClCompile Include="C11a.cpp" />
-    <ClCompile Include="C11b.cpp" />
+    <ClCompile Include="C12a.cpp" />
+    <ClCompile Include="C12b.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include.h" />
@@ -140,6 +141,8 @@
     <Text Include="Resources\C10a_2.txt" />
     <Text Include="Resources\C11a_1.txt" />
     <Text Include="Resources\C11a_2.txt" />
+    <Text Include="Resources\C12a_1.txt" />
+    <Text Include="Resources\C12a_2.txt" />
     <Text Include="Resources\C2a_1.txt" />
     <Text Include="Resources\C2a_2.txt" />
     <Text Include="Resources\C3a_1.txt" />

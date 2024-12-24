@@ -18,10 +18,10 @@
     <ClCompile Include="AOC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C11a.cpp">
+    <ClCompile Include="C12a.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C11b.cpp">
+    <ClCompile Include="C12b.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -49,8 +49,10 @@
     <Text Include="Resources\C9a_1.txt" />
     <Text Include="Resources\C9a_2.txt" />
     <Text Include="Resources\C10a_1.txt" />
-    <Text Include="Resources\C10a_2.txt" />
     <Text Include="Resources\C11a_1.txt" />
     <Text Include="Resources\C11a_2.txt" />
+    <Text Include="Resources\C10a_2.txt" />
+    <Text Include="Resources\C12a_1.txt" />
+    <Text Include="Resources\C12a_2.txt" />
   </ItemGroup>
 </Project>
